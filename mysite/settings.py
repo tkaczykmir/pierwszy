@@ -26,7 +26,7 @@ SECRET_KEY = '1xk^ygut06p-qj%y#f_92n6=ru^b^d_0(+w=m^%y+p32=8&lz-'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = ['127.0.0.1', '.pythonanywhare.com']
+ALLOWED_HOSTS = ['127.0.0.1', 'tkaczykmir.pythonanywhare.com']
 
 
 # Application definition
